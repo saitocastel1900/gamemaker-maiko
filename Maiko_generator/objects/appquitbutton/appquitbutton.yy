@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "____tweet",
-    "path": "sprites/____tweet/____tweet.yy",
+    "name": "_______18",
+    "path": "sprites/_______18/_______18.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,7 +21,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -29,7 +31,7 @@
     "path": "folders/UI/obj.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Object15",
+  "name": "AppQuitButton",
   "tags": [],
   "resourceType": "GMObject",
 }

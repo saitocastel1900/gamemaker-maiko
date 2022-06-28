@@ -1,3 +1,3 @@
-/// @description 説明をここに挿入
+/// @description ゲーム部屋に移動する
 // このエディターでコードを作成することができます
 room_goto(Game)

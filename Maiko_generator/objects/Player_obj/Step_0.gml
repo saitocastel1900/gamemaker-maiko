@@ -19,7 +19,7 @@ if(keyboard_check(vk_down)){
 }
 
 if(keyboard_check_pressed(vk_space)){
-	instance_create_layer(x,y,layer,Bullet_obj);
+	//instance_create_layer(x,y,layer,Bullet_obj);
 }
 
 

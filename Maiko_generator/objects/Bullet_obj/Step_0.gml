@@ -1,3 +1,4 @@
+/*
 var inst=instance_nearest(x,y,Maiko_obj);
 if(inst==noone){
 	return;
@@ -17,3 +18,4 @@ if(diff>0){
 else{
 	direction+=1;
 }
+*/

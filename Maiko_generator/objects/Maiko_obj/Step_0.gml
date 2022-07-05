@@ -1,4 +1,4 @@
-var inst=instance_nearest(x,y,Mizuumi_obj);
+/*var inst=instance_nearest(x,y,Mizuumi_obj);
 if(inst==noone){
 	return;
 }
@@ -11,5 +11,15 @@ if(diff>0){
 }
 else{
 	direction+=1;
-}
+}*/
 
+if(400<x&&x<600&&hit==false){
+	GameManeger.BiwakoHP--;
+	instance_destroy();
+	hit=true;
+}
+if(x<800&&x>600&&hit==false){
+	GameManeger.BiwakoHP--;
+	instance_destroy();
+	hit=true;
+}
